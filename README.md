@@ -1,5 +1,5 @@
 # ListaCompras
 
-Como executar o código:
+Vídeo explicativo de como executar o código:
 
-[clicando aqui](https://www.youtube.com/watch?v=vdQcQwXrRps).
+[Vídeo](https://www.youtube.com/watch?v=vdQcQwXrRps).
